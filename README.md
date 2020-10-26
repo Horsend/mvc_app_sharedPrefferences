@@ -1,4 +1,4 @@
-# mvc_app
+# mvc__sharepreffernces_app
 
 Um aplicativo que serve para listar as compras do mês.
 
